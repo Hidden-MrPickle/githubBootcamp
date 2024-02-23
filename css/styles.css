@@ -1,0 +1,14 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-image: url('../images/terrarium-final.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#highContainer{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: 9% 25% 0% 25.5%;
+    font-size: 25px;
+    gap: 4%;
+}
